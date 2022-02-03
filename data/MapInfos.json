@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"小世界","order":1,"parentId":0,"scrollX":458,"scrollY":312.5},
+{"id":2,"expanded":false,"name":"村莊","order":2,"parentId":1,"scrollX":458,"scrollY":312.5},
+{"id":3,"expanded":false,"name":"魔王塔","order":3,"parentId":1,"scrollX":450,"scrollY":487.5}
+]

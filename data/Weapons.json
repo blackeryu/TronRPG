@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":96,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"聖劍","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":97,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"聖劍+1","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":3,"animationId":98,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"聖劍+2","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":4,"animationId":100,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"聖劍+3","note":"","params":[5000,5000,500,500,500,500,500,500],"price":500,"wtypeId":2}
+]
